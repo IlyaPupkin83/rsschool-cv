@@ -25,7 +25,8 @@ Examples on Github:
 ### Education
 
 - Tomsk State University of Control Systems and Radioelectronics. Radioelectronics engineer, PhD.
-- SkillFactory school. Student.
+- 06.2020 - present. SkillFactory school. Fullstack Web-Delevoper. Student.
+- 09.2020 - present. The Rolling Scopes School. JavaScript/Front-end course. Student.
 
 ### Skills and knowledge
 
