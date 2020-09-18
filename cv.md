@@ -30,4 +30,5 @@ Examples on Github:
 ### Skills and knowledge
 
 Bootstrap, HTML, CSS, JavaScript, GitHub.
+
 English: reading tech. documentation.
