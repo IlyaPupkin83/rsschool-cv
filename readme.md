@@ -1,1 +1,1 @@
-https://IlyaPupkin83.github.io/rsschool-cv/cv.md
+https://IlyaPupkin83.github.io/rsschool-cv/cv
